@@ -1,12 +1,16 @@
 {
-    "name": "mgallegos/laravel-jqgrid",
-    "description": "Laravel jqGrid package allows you to easily integrate the popular jQuery Grid Plugin (jqGrid) into your Laravel application.",
+    "name": "therealedatta/laravel-jqgrid",
+    "description": "Laravel jqGrid package allows you to easily integrate the popular jQuery Grid Plugin (jqGrid) into your Laravel application. Fork of mgallegos/laravel-jqgrid",
     "keywords": ["laravel", "jquery", "jqgrid", "grid"],
     "license": "MIT",
     "authors": [
         {
             "name": "Mario Gallegos",
             "email": "freelance@mariogallegos.com"
+        },
+        {
+            "name": "David Jiménez",
+            "email": "djimenez@edatta.com"
         }
     ],
     "require": {
